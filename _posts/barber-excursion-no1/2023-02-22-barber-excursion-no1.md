@@ -1,6 +1,6 @@
 ---
 title: Excursions, Op.20 No.1 — An analysis
-date: 2023-22 09:45:47
+date: 2023-02-22 09:45:47
 modified: 2019-08-29 09:24:47 +0s
 tags: [barber analysis theory]
 description: A closer look into Samuel Barber's first Excursion.
