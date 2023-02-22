@@ -1,5 +1,5 @@
 ---
-title: Excursions, Op.20 No.1 — An analysis
+title: An Analysis — Excursions, Op.20 No.1
 date: 2023-02-22 09:45:47
 modified: 2023-02-22 15:43:47 +0s
 tags: [theory]
