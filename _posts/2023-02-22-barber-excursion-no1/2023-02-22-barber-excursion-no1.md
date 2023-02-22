@@ -29,7 +29,7 @@ In his 1954 book on Samuel Barber, Nathan Broder identifies the first movement (
 
 Makes sense after listening to the piece, yeah? Here's the "A section" ostinato, C being the dominant tone:
 
-[!Ostinato](/ostinato.jpg/)
+[!Ostinato](/ostinato.png/)
 
 Boogie-woogies are _usually_ in 12-bar blues form, and blues harmonic progression is some variant of I-IV-I-V-I. So it's unsurprising that Barber would use this chord progression to provide the bass for each section of the "rondo". But wait—there's more!
 
