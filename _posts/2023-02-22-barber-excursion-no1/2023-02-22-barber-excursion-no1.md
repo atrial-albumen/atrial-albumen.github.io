@@ -49,13 +49,13 @@ This first "excursion" is actually proportionate to 12-bar blues. If you scale t
 
 As for another American idom that you can find in this movment, Barber employs extensive use of _blue notes_. 
 
-These are notes in the blues tradition that are sounded slightly lower than expected (this usually translates to a half-step lower on piano because, well, piano). Common blue notes are the lowered third, fifth, and seventh. 
+These are notes from the blues tradition that are sounded slightly lower than expected (this usually translates to a half-step lower on piano because, well, piano). Common blue notes are the lowered third, fifth, and seventh. 
 
 Barber adds to these with lowered ninths and the occasional 13th. Some of the far-out sounding sonorities (mms. 30, 38, 46, and 52 come to mind specifically; the downbeat of mm. 52 is a GREAT crunch) are easily (and only) explained as blue notes.
 
 <hr>
 
-This first movement of Barber's _Excursions_ is great. I thought it was kind of...weird when I first heard it, but the more I sit with it the more it grows on me—the more it grows me. It's actually a great example of how a neo-Romantic composer joins the old (a five-part rondo) with contemporary idioms and dissonances.
+This first movement of Barber's _Excursions_ is great. I thought it was kind of...weird when I first heard it, but the more I sit with it the more it grows on me—the more it grows me. It's  a great example of how a neo-Romantic composer joins the old (a five-part rondo) with contemporary idioms and dissonances.
 
 <hr>
 
