@@ -29,11 +29,11 @@ In his 1954 book on Samuel Barber, Nathan Broder identifies the first movement (
 
 Makes sense after listening to the piece, yeah? Here's the "A section" ostinato, C being the dominant tone:
 
-![Ostinato](ostinato.png)
+![Ostinato](_posts/2023-02-22-barber-excursion-no1/ostinato.png)
 
 Boogie-woogies are _usually_ in 12-bar blues form, and blues harmonic progression is some variant of I-IV-I-V-I. So it's unsurprising that Barber would use this chord progression to provide the bass for each section of the "rondo". But wait—there's more!
 
-This first "excursion" is actually proportionate to 12-bar blues. If you scale the blue up nine times (not play the form nine times, but actually "enlarge" it), you find that this movement maps pretty neatly onto 
+This first "excursion" is actually proportionate to 12-bar blues. If you scale the blue up nine times (not play the form nine times, but actually "enlarge" it), you find that the measure counts of each section map almost perfectly onto the 12-bar structure with an added coda.
 
 As for some other American idoms that you can find in this movment, ...
 
