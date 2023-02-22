@@ -13,7 +13,7 @@ Excursions, Op.20, is a set of four pieces of American style written for piano. 
 _Excursions, Op.20_ opens with the following note from the composer:
 > These are ‘Excursions’ in small classical forms into regional American idioms. Their rhythmic characteristics, as well as their source in folk material and their scoring, reminiscent of local instruments are easily recognized.
 
-I'd encourage you to [have a listen](https://youtu.be/ZDatkOhDaVo) so the following ramble makes some sense...
+You should [have a listen](https://youtu.be/ZDatkOhDaVo) so the following ramble makes some sense...
 
 [![Excursions, Op.20 No.1 audio](https://img.youtube.com/vi/ZDatkOhDaVo/0.jpg)](https://youtu.be/ZDatkOhDaVo)
 
@@ -31,11 +31,11 @@ The boogie-woogie was very popular in the early and middle parts of the 20th cen
 
 Here's an old recording of Pinetop's Boogie Woogie, recorded in 1928:
 
-[![Pine Top's Boogie Woogie](https://www.img.youtube.com/vi/K6dPdfXZVI8/0.jpg)](https://www.youtube.com/K6dPdfXZVI8)
+[![Pine Top's Boogie Woogie](https://www.img.youtube.com/vi/K6dPdfXZVI8/0.jpg)](https://www.youtu.be/K6dPdfXZVI8)
 
 Makes sense after listening to this excursion, yeah? Here's the "A section" ostinato, C being the dominant tone:
 
-![Ostinato](_posts/2023-02-22-barber-excursion-no1/ostinato.png)
+![Ostinato](https://jonahlosh.com/_posts/2023-02-22-barber-excursion-no1/ostinato.png)
 
 I've also heard the boogie-woogie called "eight to the bar music," because of bass pattern of eight eighth notes per measure (or bar). 
 
