@@ -13,8 +13,9 @@ Excursions, Op.20, is a set of four pieces of American style written for piano. 
 _Excursions_ opens with the following note from the composer:
 > These are ‘Excursions’ in small classical forms into regional American idioms. Their rhythmic characteristics, as well as their source in folk material and their scoring, reminiscent of local instruments are easily recognized.
 
-I'd encourage you to have a listen so the following ramble makes some sense...
-<iframe width="831" height="566" src="https://www.youtube.com/embed/ZDatkOhDaVo" title="Excursions Op. 20: I. Un poco allegro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+I'd encourage you to [have a listen](https://youtu.be/ZDatkOhDaVo) so the following ramble makes some sense...
+
+[![Excursions, Op.20 No.1 audio](https://img.youtube.com/vi/ZDatkOhDaVo/0.jpg)](https://youtu.be/ZDatkOhDaVo)
 
 There has been some analysis done on these pieces, and I borrow from others' studies, but I think I've come on an original discovery relating to the first movement.
 
