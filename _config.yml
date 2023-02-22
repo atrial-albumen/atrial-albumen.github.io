@@ -5,15 +5,15 @@ description: >- # site description
 lang: en-US # default lang
 timezone: New York # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/atrial-albumen/atrial-albumen.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Jonah Losh # author name
   bio: >- # tell to the world
-    I'm a pianist. I got my B.A. in Music Performance from North Greenville University, and I'm currently pursuing my M.M. in Performance at Converse University with Dr. Steven Graff.
-  username: username # general username
+    I'm a pianist. Among other things.
+  username: jonahlosh # general username
   github: atrial-albumen # github username
   twitter: itsssssjonah # twitter username
   facebook: realjonahlosh # facebook username
