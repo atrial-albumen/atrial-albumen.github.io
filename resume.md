@@ -18,6 +18,8 @@ comments: false
 * Dec: Played for the SC State Guard Christmas event.
 * Nov: Performed Suite No.2 for Two Pianos by Sergei Rachmaninov with Matthew Latzka.
 * Aug: Began Piano Performance M.M. program at Converse University.
+* Apr: Accompanied the Northwest Middle School Choir to a competition in Atlanta, GA.
+* Feb: Played Piano Concerto No. 1 by Felix Mendelssohn with the NGU orchestra.
 
 ## 2021
 
@@ -27,8 +29,9 @@ comments: false
 
 ## 2020
 
+* Nov: Played Piano Concerto No. 1 by Ludwig van Beethoven with the NGU orchestra.
 * Rehearsal pianist for NGU's production of _Brigadoon_.
-* Nov: Junior piano recital (online due to COVID).
+* Apr: Junior piano recital (online due to COVID).
 
 ## 2019
 
