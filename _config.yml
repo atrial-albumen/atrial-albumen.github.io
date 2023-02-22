@@ -12,11 +12,11 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Jonah Losh # author name
   bio: >- # tell to the world
-    I'm a pianist. Among other things.
+    Here's a website I'm working on that you can get in touch with me or see some of what I've been up to. It's a work in progress...
   username: jonahlosh # general username
   github: atrial-albumen # github username
   twitter: itsssssjonah # twitter username
-  facebook: realjonahlosh # facebook username
+  facebook: atjonahlosh # facebook username
   email: me@jonahlosh.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
