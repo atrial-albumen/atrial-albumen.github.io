@@ -29,13 +29,9 @@ In his 1954 book on Samuel Barber, Nathan Broder identifies the first movement (
 
 The boogie-woogie was very popular in the early and middle parts of the 20th century, but there are oral history records of the boogie-woogie being played in Texas as early as the 1870's.
 
-Here's an old recording of Pinetop's Boogie Woogie, recorded in 1928:
+[Here's an old recording of Pinetop's Boogie Woogie, recorded in 1928](https://www.youtu.be/K6dPdfXZVI8)
 
-[![Pine Top's Boogie Woogie](https://www.img.youtube.com/vi/K6dPdfXZVI8/0.jpg)](https://www.youtu.be/K6dPdfXZVI8)
-
-Makes sense after listening to this excursion, yeah? Here's the "A section" ostinato, C being the dominant tone:
-
-![Ostinato](https://jonahlosh.com/_posts/2023-02-22-barber-excursion-no1/ostinato.png)
+Make sense? Can you hear the similarity?
 
 I've also heard the boogie-woogie called "eight to the bar music," because of bass pattern of eight eighth notes per measure (or bar). 
 
