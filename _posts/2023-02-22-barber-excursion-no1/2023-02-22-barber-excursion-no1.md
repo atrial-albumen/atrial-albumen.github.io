@@ -6,7 +6,7 @@ tags: [theory]
 description: A closer look into Samuel Barber's first Excursion.
 ---
 
-Recently, I've had the joy of expanding my repertoire into the 20th century with some good ditties by the American neo-Romantic composer Samuel Barber (1910-1981). 
+Recently, I've been expanding my repertoire into the 20th century with some good ditties by the American neo-Romantic composer Samuel Barber (1910-1981). 
 
 Excursions, Op.20, is a set of four pieces of American style written for piano. [Jeanne Behrend](https://en.wikipedia.org/wiki/Jeanne_Behrend), an accomplished American pianist and friend of Barber's, asked the composer to write an involved piano work that would "would be appropriate to perform on one of her programs of American music."[^1] So along came _Excursions_ in 1942.
 
