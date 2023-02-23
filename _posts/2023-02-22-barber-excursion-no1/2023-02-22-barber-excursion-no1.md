@@ -15,7 +15,7 @@ _Excursions_ opens with the following note from the composer:
 
 You should [have a listen](https://youtu.be/ZDatkOhDaVo) so the following ramble makes some sense...
 
-[![Excursions, Op.20 No.1 audio](https://img.youtube.com/vi/ZDatkOhDaVo/0.jpg)](https://youtu.be/ZDatkOhDaVo)
+<iframe width="831" height="566" src="https://www.youtube.com/embed/ZDatkOhDaVo" title="Excursions Op. 20: I. Un poco allegro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Analysis
 
