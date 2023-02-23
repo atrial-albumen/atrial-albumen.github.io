@@ -8,9 +8,9 @@ description: A closer look into Samuel Barber's first Excursion.
 
 Recently, I've been expanding my repertoire into the 20th century with some good ditties by the American neo-Romantic composer Samuel Barber (1910-1981). 
 
-Excursions, Op.20, is a set of four pieces of American style written for piano. [Jeanne Behrend](https://en.wikipedia.org/wiki/Jeanne_Behrend), an accomplished American pianist and friend of Barber's, asked the composer to write an involved piano work that would "would be appropriate to perform on one of her programs of American music."[^1] So along came _Excursions_ in 1942.
+_Excursions_, Op.20, is a set of four pieces of American style written for piano. [Jeanne Behrend](https://en.wikipedia.org/wiki/Jeanne_Behrend), an accomplished American pianist and friend of Barber's, asked the composer to write an involved piano work that would "would be appropriate to perform on one of her programs of American music."[^1] So along came _Excursions_ in 1942.
 
-_Excursions, Op.20_ opens with the following note from the composer:
+_Excursions_ opens with the following note from the composer:
 > These are ‘Excursions’ in small classical forms into regional American idioms. Their rhythmic characteristics, as well as their source in folk material and their scoring, reminiscent of local instruments are easily recognized.
 
 You should [have a listen](https://youtu.be/ZDatkOhDaVo) so the following ramble makes some sense...
