@@ -14,7 +14,7 @@ Currently I'm working on my M.M. from Converse University, studying with the gre
 
 I live in South Carolina and want to teach music theory and piano some day.
 
-In my free time, I like to go to the mountains with my family, write poems, and go birding.
+In my free time, I like to go to the mountains with my family, write poems, and go [birding](https://www.newyorker.com/books/page-turner/the-difference-between-bird-watching-and-birding).
 
 **Get in touch and connect with me!**
 
