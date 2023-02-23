@@ -6,7 +6,7 @@ excerpt: I'm a pianist. I got my B.A. in Music Performance from North Greenville
 comments: false
 ---
 
-I'm a pianist and a worship leader, among other things.
+I'm a pianist and a worship leader, among other things. Living it up in Greenville, SC.
 
 I've got a B.A. in Music Performance from North Greenville University, where I studied with Fabio Parrini.
 
