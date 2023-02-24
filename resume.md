@@ -8,22 +8,21 @@ comments: false
 
 ## 2023
 
-* Continuing M.M. in Performance at Converse University.
-* IT Instructional Coach at North Greenville University.
 * Feb: Masterclass with Dmitri Vorobiev (Converse).
 * Jan: Essay on Samuel Barber's _Excursions, Op.20 I. Un poco allegro_.
 
 ## 2022
 
 * Dec: Played for the SC State Guard Christmas event.
-* Nov: Performed Suite No.2 for Two Pianos by Sergei Rachmaninov with Matthew Latzka.
-* Aug: Began Piano Performance M.M. program at Converse University.
+* Nov: Performed Suite No.2 for Two Pianos by Sergei Rachmaninov with Matthew Latzka at Converse University.
+* Aug: Began M.M. Piano Performance program at Converse University.
+* May: Hired as IT Instructional Coach at NGU.
 * Apr: Accompanied the Northwest Middle School Choir to a competition in Atlanta, GA.
 * Feb: Performed Piano Concerto No. 1 by Felix Mendelssohn with the NGU orchestra.
 
 ## 2021
 
-* May: IT Help Desk Technician at NGU.
+* May: Hired as IT Help Desk Technician at NGU.
 * Apr: Graduated Suma Cum Laude from North Greenville University .with a B.A. in Music Performance (studying with Fabio Parrini).
 * Apr: Accompanied the Northwest Middle School Choir to a competition in Charlotte, NC.
 * Mar: Senior piano recital.
