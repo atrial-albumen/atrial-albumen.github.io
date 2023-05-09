@@ -10,7 +10,7 @@ I'm a pianist and a worship leader, among other things. Living it up in Greenvil
 
 I've got a B.A. in Music Performance from North Greenville University, where I studied with Fabio Parrini.
 
-Currently I'm working on my M.M. from Converse University, studying with the great Dr. Steven Graff. I'm learning how to not just *play* but to *be*, and I'm getting to learn this in some pretty cool music with some pretty cool people.
+Currently I'm working on my M.M. from Converse University, studying with Dr. Steven Graff. 
 
 I live in South Carolina and want to teach music theory and piano some day.
 
