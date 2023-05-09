@@ -8,12 +8,13 @@ comments: false
 
 ## 2023
 
+* May: Piano quartet masterclass with Ida Bieler (Converse).
 * Feb: Masterclass with Dmitri Vorobiev (Converse).
 * Jan: Essay on Samuel Barber's _Excursions, Op.20 I. Un poco allegro_.
 
 ## 2022
 
-* Dec: Played for the SC State Guard Christmas event.
+* Dec: Played for the SC State Guard's Christmas event.
 * Nov: Performed Suite No.2 for Two Pianos by Sergei Rachmaninov with Matthew Latzka at Converse University.
 * Aug: Began M.M. Piano Performance program at Converse University.
 * May: Hired as IT Instructional Coach at NGU.
