@@ -8,6 +8,7 @@ comments: false
 
 ## 2023
 
+* May: 2023 Young Artist Competition winner (Converse).
 * May: Piano quartet masterclass with Ida Bieler (Converse).
 * Feb: Masterclass with Dmitri Vorobiev (Converse).
 * Jan: Essay on Samuel Barber's _Excursions, Op.20 I. Un poco allegro_.
