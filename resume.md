@@ -8,6 +8,7 @@ comments: false
 
 ## 2023
 
+* May: Performed Piano Quartet No. 1, Op. 25, by Johannes Brahms (Converse).
 * May: Petrie School of Music 2023 Young Artist Competition winner (Converse).
 * May: Piano quartet masterclass with Ida Bieler (Converse).
 * Feb: Masterclass with Dmitri Vorobiev (Converse).
@@ -19,20 +20,20 @@ comments: false
 * Nov: Performed Suite No.2 for Two Pianos by Sergei Rachmaninov with Matthew Latzka at Converse University.
 * Aug: Began M.M. Piano Performance program at Converse University.
 * May: Hired as IT Instructional Coach at NGU.
-* Apr: Accompanied the Northwest Middle School Choir to a competition in Atlanta, GA.
+* Apr: Accompanied the Northwest Middle School Choir in a competition in Atlanta, GA.
 * Feb: Performed Piano Concerto No. 1 by Felix Mendelssohn with the NGU orchestra.
 
 ## 2021
 
 * May: Hired as IT Help Desk Technician at NGU.
-* Apr: Graduated Suma Cum Laude from North Greenville University .with a B.A. in Music Performance (studying with Fabio Parrini).
-* Apr: Accompanied the Northwest Middle School Choir to a competition in Charlotte, NC.
+* Apr: Graduated Suma Cum Laude from North Greenville University with a B.A. in Music Performance, studying with Fabio Parrini.
+* Apr: Accompanied the Northwest Middle School Choir in a competition in Charlotte, NC.
 * Mar: Senior piano recital.
 
 ## 2020
 
 * Nov: Performed Piano Concerto No. 1 by Ludwig van Beethoven with the NGU orchestra.
-* Rehearsal pianist for NGU's production of _Brigadoon_.
+* Spring: Rehearsal pianist for NGU's production of _Brigadoon_.
 * Apr: Junior piano recital (online due to COVID).
 
 ## 2019
