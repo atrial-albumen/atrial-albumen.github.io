@@ -7,20 +7,13 @@ description: A breakdown of how I read sheet music in graduate school.
 ---
 
 ## The reason for this post
-
-I've been doing a ton—a TON—of web browsing, looking through people's digital sheet music setups. Why? Well, for a year I've been reading from a 2020 iPad Air (just an awesome iPad, and I can't recommend it enough if you're in the market for one for general use). I just finished my first year of graduate school, which critically included playing and performing Brahms' Piano Quartet No. 1 in G Minor. Two major takeaways:
-* An iPad + a bluetooth page turner is an amazing combo when you have 120+ pages to flip, and
-* If you're looking at an 11-inch display, a piano quartet full score is on the small side.
-
-I’m doing some more chamber projects this coming academic year, so I'm considering biting the bullet and trading in my Mac and iPad for a 12.9" iPad Pro (probably a 2021 model, refurbished from Apple). I wouldn't have considered trading my Mac in because I use Final Cut Pro and Logic Pro but...now Apple has iPad versions for these. ANYWAY, after hours on the internet trying to see iPads what other pianists and musicians are using and how they are using them, I found that most of the articles are from early 2022 at the latest.
-
-SO—without further ado—here is my iPad Air setup for reading sheet music in 2023 (and I'll update this if I decide to upgrade).
+I've been doing some browsing around at what other musicians are using for their digital music setups. Most of the articles I'm finding are from early 2022 at the most recent, so I thought I'd drop what I've got going on here. 
 
 ## 2023 iPad Digital Sheet Music Setup
 ### The music: [IMSLP](https://imslp.org)
 Most of my music comes from IMSLP. What isn’t there, I find at my school’s library and…er…scan. Free-Scores, MusicNotes, J.W. Pepper, and others offer online editions as well, though I haven’t used any. Between IMSLP and my school, I haven’t had to look hard for music. 
 ### The device: iPad Air (2020)
-For everything except for reading multi-part or Liszt piano scores, I think the iPad Air is about as close to a perfect device as you can get. It’s an overall great size for browsing and note-taking. And honestly, it's been a great size for living in my backpack and reading scores from. It’s also a great price (I got mine used for $400 which is great for what it is compared to the iPad Pro models).
+I think the iPad Air is about as close to a perfect device as you can get. It’s an overall great size for browsing and note-taking. And honestly, it's been a great size for living in my backpack and reading scores from. It is on the small size at 10.9" or whatever, which hasn't been a problem except for certain chamber scores. But even still, if you have a high quality scan it's legible. The Air is also a great price (I got mine used for $400 which is great for what it is compared to the iPad Pro models).
 ### The apps
 #### [forScore](https://forscore.co/)
 I was skeptical… This app gets so much hype in the music world. It’s ubiquitous with digital, iPad sheet music. Plus it’s a paid app. I tried the free version of Piascore for a few months, and it was ok. I got by with it, but for my birthday a friend gave me an Apple gift card. Along with some other apps, I purchased forScore. And now I’m a believer. I recently followed the [London Musical Theatre Orchestra’s guide for using an iPad for sheet music](https://www.lmto.org/lmto-ipad-guide/), and I’m now an even bigger fan. You can enable iCloud sync, so you always have a backup. IMSLP also has an app, but I haven't used it in a long time and honestly am content with forScore. I crop my music pretty close—I keep almost no margin on my music.
@@ -62,6 +55,6 @@ And finally, to quote LMTO, there are three things you need to remember:
 
 I have an Anker 100W charger. It’s way over-juiced, but it will give me 25% battery back in 10 minutes, if I remember correctly. Keep a charger and two USB-C cables on you at all times.
 
-If I think of anything else, I’ll update this. Overall, I’m a fan of the iPad Air as a sheet music reader. I still print out music to give me the option to practice without a screen and to have a backup of my music should the Apocalypse come. 
+If I think of anything else, I’ll update this. Overall, I’m a fan of the iPad Air as a sheet music reader. I still print out music to give me the option to practice without a screen and to have a backup of my music should the Apocalypse come. At some point I want to upgrade to a 12.9" iPad, but it's hard to justify the price right now.
 
 Let me know if you have any suggestions or questions! 🫡🎹
