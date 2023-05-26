@@ -43,7 +43,7 @@ If the iPad becomes my main “computer” (not just a music reader/browsing and
 * Turn off Background App Refresh. I don’t know why this is even a thing. I’ve had it turned off on my devices for years and have never found a reason to have it on. 
 
 #### Focus Mode
-This is a built-in function in iOS/iPadOS. Open Settings > Focus > Do Not Disturb > and under “Set a Schedule” tap **Add Schedule** ([see in action here](https://jonahlosh.com/assets/img/focus-mode.mov)). Tap **App** and then select forScore. This puts your iPad in Do Not Disturb mode whenever you’re using forScore. You may not want to do this, but for me it cuts distractions (texts/emails/random notifications) and eliminates embarrassing noises during performances if my Reminders app decides to alert me to check the oil in my car or something.
+This is a built-in function in iOS/iPadOS. Open Settings > Focus > Do Not Disturb > and under “Set a Schedule” tap **Add Schedule** ([see in action here](https://jonahlosh.com/assets/img/focus.mov)). Tap **App** and then select forScore. This puts your iPad in Do Not Disturb mode whenever you’re using forScore. You may not want to do this, but for me it cuts distractions (texts/emails/random notifications) and eliminates embarrassing noises during performances if my Reminders app decides to alert me to check the oil in my car or something.
 
 ## Final Thoughts
 Charge your iPad every night if you like to be safe. I’ve found that I can usually go 5-7 days on a single charge when I’m not connected to WiFi and use it for practice two hours per day.
