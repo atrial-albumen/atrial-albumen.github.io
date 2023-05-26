@@ -11,7 +11,7 @@ I've been doing some browsing around at what other musicians are using for their
 
 ## 2023 iPad Digital Sheet Music Setup 
 ### The device: iPad Air (2020)
-I think the iPad Air is about as close to a perfect device as you can get. It’s an overall great size for browsing and note-taking. And honestly, it's been a great size for living in my backpack and reading scores from. It is on the small size at 10.9" or whatever, which hasn't been a problem except for certain chamber scores. But even still, if you have a high quality scan it's legible. The Air is also a great price (I got mine used for $400 which is great for what it is compared to the iPad Pro models).
+I think the iPad Air is about as close to a perfect device as you can get. It’s an overall great size for browsing and note-taking. And honestly, it's been a great size for living in my backpack and reading scores from. It is on the small size at 10.9" for a diagonal, which really hasn't been a problem for me except for certain chamber scores. But even still, if you have a high quality scan it's legible. The Air is also a great price (I got mine used for $400 which is great for what it is compared to the iPad Pro models).
 ### The music: [IMSLP](https://imslp.org)
 Most of my music comes from IMSLP. What isn’t there, I find at my school’s library and…er…scan. Free-Scores, MusicNotes, J.W. Pepper, and others offer online editions as well, though I haven’t used any. Between IMSLP and my school, I haven’t had to look hard for music.
 ### The apps
