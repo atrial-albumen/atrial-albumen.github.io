@@ -20,5 +20,4 @@ In my free time, I like to go to the mountains with my family, write poems, and 
 
 - {{ site.author.email }}
 - instagram.com/{{ site.author.username }}
-- twitter.com/{{ site.author.twitter }}
 - facebook.com/{{ site.author.username }}
