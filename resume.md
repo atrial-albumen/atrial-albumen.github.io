@@ -6,6 +6,11 @@ excerpt: Things I've done, places I've worked, people I've studied with.
 comments: false
 ---
 
+## 2024
+
+* April: Graduate piano recital, "Echoes" (Converse).
+* April: Received an honorable mention in the SCMTA Songwriting Competition.
+
 ## 2023
 
 * May: Performed Piano Quartet No. 1, Op. 25, by Johannes Brahms (Converse).
