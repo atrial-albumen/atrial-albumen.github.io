@@ -6,13 +6,13 @@ excerpt: I'm a pianist. I got my B.A. in Music Performance from North Greenville
 comments: false
 ---
 
-I'm a pianist and a worship leader living it up in Greenville, SC.
+I'm a pianist and a worship pastor living it up in Greenville, SC.
 
-I've got a B.A. in Music Performance from North Greenville University with Mr. Fabio Parrini.
+I have a B.A. in Music Performance from North Greenville University, where I studied with Mr. Fabio Parrini, and I recently completed my Masters of Music in Piano Performance from Converse University, where I studied with Dr. Steven Graff.
 
-Currently I'm working on my M.M. in Piano Performance from Converse University, studying with Dr. Steven Graff, with dreams of doctoral school and teaching.
+I am passionate about bridging classical and contemporary music traditions through holistic teaching for growing well-rounded musicians.
 
-In my free time, I like to go to the mountains with my family, write poems, and go [birding](https://www.newyorker.com/books/page-turner/the-difference-between-bird-watching-and-birding).
+In my free time, I like to day trip to the mountains, write poems, and go [birding](https://www.newyorker.com/books/page-turner/the-difference-between-bird-watching-and-birding).
 
 **Get in touch and connect with me!**
 
