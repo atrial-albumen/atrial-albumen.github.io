@@ -12,7 +12,7 @@ I have a B.A. in Music Performance from North Greenville University, where I stu
 
 I am passionate about bridging classical and contemporary music traditions through holistic teaching for growing well-rounded musicians.
 
-In my free time, I like to day trip to the mountains, write poems, and go [birding](https://www.newyorker.com/books/page-turner/the-difference-between-bird-watching-and-birding).
+When I'm not playing piano, find me daytripping to the mountains, sipping coffee, writing poetry, or [birding](https://www.newyorker.com/books/page-turner/the-difference-between-bird-watching-and-birding).
 
 **Get in touch and connect with me!**
 
