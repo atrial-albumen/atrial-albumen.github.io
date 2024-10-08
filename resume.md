@@ -8,6 +8,8 @@ comments: false
 
 ## 2024
 
+* September: Masterclass with [Terrence Wilson](https://www.terrencewilsonpiano.com) (Converse).
+* May: Graduated with a Masters of Music in Piano Performance from Converse University.
 * April: Graduate piano recital, "Echoes" (Converse).
 * April: Received an honorable mention in the SCMTA Songwriting Competition.
 
