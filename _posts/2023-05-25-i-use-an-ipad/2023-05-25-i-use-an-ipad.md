@@ -1,5 +1,5 @@
 ---
-title: I Use an iPad for Sheet Music
+title: How I Use an iPad for Sheet Music
 date: 2023-05-25 14:00:00 +0s
 modified: 
 tags: [iPad]
