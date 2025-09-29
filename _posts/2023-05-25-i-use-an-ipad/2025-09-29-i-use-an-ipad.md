@@ -1,31 +1,34 @@
 ---
 title: How I Use an iPad for Sheet Music
-date: 2023-05-25 14:00:00 +0s
+date: 2025-09-29 09:00:00 +0s
 modified: 
 tags: [iPad]
-description: A breakdown of how I read sheet music in graduate school.
+description: A breakdown of how I read sheet music in graduate school and beyond.
 ---
 
 ## The reason for this post
 I've been doing some browsing around at what other musicians are using for their digital music setups. Most of the articles I'm finding are from early 2022 at the most recent, so I thought I'd drop what I've got going on here. 
 
-## 2023 iPad Digital Sheet Music Setup 
-### The device: iPad Air (2020)
-I think the iPad Air is about as close to a perfect device as you can get. It’s an overall great size for browsing and note-taking. And honestly, it's been a great size for living in my backpack and reading scores from. It is on the small size at 10.9" for a diagonal, which really hasn't been a problem for me except for certain chamber scores. But even still, if you have a high quality scan it's legible. The Air is also a great price (I got mine used for $400 which is great for what it is compared to the iPad Pro models).
+## 2025 iPad Digital Sheet Music Setup 
+### The device: iPad Air 13" (M2)
+I think the regular iPad Air 11" is about as close to a perfect device as you can get. It’s an overall great size for browsing and note-taking. But since I switched to the 13" two years ago, I'm not going back. The 13" has been a great size for living in my backpack and reading scores from. Its screen is nearly the size of an 8.5"x11" sheet of paper.
+I also use it for notes when teaching piano lessons. I'll either use Microsoft OneNote, GoodNotes 5, or Apple Notes (I prefer Apple Notes) to share with the students so that we can sync lesson notes and practice logs.
 ### The music: [IMSLP](https://imslp.org)
 Most of my music comes from IMSLP. What isn’t there, I find at my school’s library and…er…scan. Free-Scores, MusicNotes, J.W. Pepper, and others offer online editions as well, though I haven’t used any. Between IMSLP and my school, I haven’t had to look hard for music.
 ### The apps
 #### [forScore](https://forscore.co/)
-I was skeptical… This app gets so much hype in the music world. It’s ubiquitous with digital, iPad sheet music. Plus it’s a paid app. I tried the free version of Piascore for a few months, and it was ok. I got by with it, but for my birthday a friend gave me an Apple gift card. Along with some other apps, I purchased forScore. And now I’m a believer. I recently followed the [London Musical Theatre Orchestra’s guide for using an iPad for sheet music](https://www.lmto.org/lmto-ipad-guide/), and I’m now an even bigger fan. You can enable iCloud sync, so you always have a backup. IMSLP also has an app, but I haven't used it in a long time and honestly am content with forScore. I crop my music pretty close—I keep almost no margin on my music.
+I was skeptical… This app gets so much hype in the music world. It’s ubiquitous with digital, iPad sheet music. Plus it’s a paid app. I tried the free version of Piascore for a few months, and it was...just ok. I got by with it, but for my birthday a friend gave me an Apple gift card and I took the forScore plunge. And now I’m a believer. I recently followed the [London Musical Theatre Orchestra’s guide for using an iPad for sheet music](https://www.lmto.org/lmto-ipad-guide/), and I’m now an even bigger fan. You can enable iCloud sync, so you always have a backup (make backups of your backups, please—ask me how I know.). IMSLP also has an app, but I haven't used it in a long time and honestly am content with downloading to forScore. I crop my music pretty close—I keep almost no margin on my music.
 #### [Andante](https://apps.apple.com/us/app/andante-practice-journal/id1530262372)
 This is a practice-tracking app that is really well designed and makes logging practice hours (and minutes) SUPER convenient. It’s gaining popularity in the music world—and for good reason. If you tap the three dots at the very top of the iPad display and tap **Slide Over** ([see in action here](https://jonahlosh.com/assets/img/andante-slide-over.MP4) or see a screenshot [here](https://jonahlosh.com/assets/img/IMG_A1A16CD0BF7B-1.jpeg)), you can swipe from the side of the screen to show Andante above forScore. This way you can easily log your practice session without actually leaving forScore. I bought the pro version because it’s just awesome and am ok with paying $5 for a non-subscription app. 
 #### [GoodNotes](https://apps.apple.com/us/app/goodnotes-5/id1444383602)
 GoodNotes is one of the first iPad apps I purchased. It works like notebooks and pieces of paper—you can throw anything in it. Some people bullet journal with it. I took notes with it for a long time (though now I keep it mainly for class notes). It has an option for staff paper, so it’s awesome for composition and sketching ideas down.
 #### [SongBook](https://apps.apple.com/us/app/songbook-chordpro/id392888837)
 This is another app that I got with that gift card. It’s great for working with ChordPro files and Chord Charts! Essential for me as a church musician. 
+#### [Sunday Keys](https://sundaysounds.com/pages/sunday-keys-app)
+Sunday Keys from [Sunday Sounds](https://sundaysounds.com/) has revolutionized my life. Where I was previously playing keyboard patches through MainStage or Logic Pro on my poor MacBook Air, I've completely switched to using my iPad for sound patches. There's an incredible amount of value in this app. Their patches sound amazing (the Stage Grand | Room is my favorite piano sound, but they literally have everything), you can program MIDI controls to an external controller or the faders and pads on your keyboard, if it has them, and you can build sets and patches endlessly. Sunday Sounds also has a wealth of free tutorials on most of the big worship music; they even have song-specific patches to make your keys sound like the album. I prefer building my own, but it's fun to experiment. Highly, highly recommend, especially if you play in a church context or gig with a keyboard that either doesn't have good sounds or doesn't have built-in patches.
 ### The accessories
-#### Apple Pencil
-If you want to take notes or mark your digital scores, you’ve got to get an Apple Pencil. Apple stuff is not cheap. There are some third-party alternatives I’ve seen on Amazon that are as cheap as $20, but I can’t verify quality or if they even work. I bought a second generation Pencil secondhand on eBay to save some cash. I also just this week got some third-party tips for it that are more like a fine-point pen. I’m a fan as it makes the Pencil more like the pens that I like to write with, and it makes annotations more precise since the tip is finer than the OEM tip. Check out [LMTO’s article](https://www.lmto.org/lmto-ipad-guide/) for some good forScore settings changes when you’re using the Pencil!
+#### Apple Pencil Pro
+If you want to take notes or mark your digital scores, you’ve got to get an Apple Pencil. Apple stuff is not cheap. There are some third-party alternatives I’ve seen on Amazon that are as cheap as $20, but I can’t verify quality or if they even work. I bought this with trade-in credit, but if I was paying cash I'd try one of the alternatives. The only thing that makes the Pencil Pro maybe worth it is that it charges wirelessly; otherwise, get something else. Check out [LMTO’s article](https://www.lmto.org/lmto-ipad-guide/) for some good forScore settings changes when you’re using the Pencil!
 #### Bluetooth page turner
 Part of the fun of digital music is it eliminates a job that I just don’t like: the page turner. I’m sorry, page turners of the world, but having turned pages (and botched it) I have little faith that there will not be some kind of crisis in a performance. My parents got me a Donner page turning bluetooth pedal, but there are many that I've heard good things about. One that's popular is the FireFly. It takes a few weeks to get used to but now…if I practice without it…I find myself mashing my left foot trying to turn pages… That’s muscle memory for you.
 #### Screen protector
@@ -55,6 +58,6 @@ And finally, to quote LMTO, there are three things you need to remember:
 
 I have an Anker 100W charger. It’s way over-juiced, but it will give me 25% battery back in 10 minutes, if I remember correctly. Keep a charger and two USB-C cables on you at all times.
 
-If I think of anything else, I’ll update this. Overall, I’m a fan of the iPad Air as a sheet music reader. I still print out music to give me the option to practice without a screen and to have a backup of my music should the Apocalypse come. At some point I want to upgrade to a 12.9" iPad, but it's hard to justify the price right now.
+If I think of anything else, I’ll update this. Overall, I’m a fan of the iPad Air as a sheet music reader. I still print out music to give me the option to practice without a screen and to have a backup of my music should the Apocalypse come. 
 
 Let me know if you have any suggestions or questions! 🫡🎹
