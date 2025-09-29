@@ -15,6 +15,7 @@ comments: false
 # Professional Development
 ## Workshops taught
 * Worship Keys — North Carolina Baptist Convention Renewing Worship EXPO (2025)
+
 ## Workshops attended
 * Lift the Room Worship Workshop with Marcus Criner — True North Church (2025)
 * Renewing Worship EXPO — North Carolina Baptist Convention (2025)
