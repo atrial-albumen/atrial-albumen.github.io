@@ -14,7 +14,7 @@ comments: false
 
 # Professional Development
 ## Workshops taught
-* Worship Keys (on [Soundcloud](https://soundcloud.com/jonahlosh/worship-keys-workshop-ncbc-renewing-worship-expo-2025)) — North Carolina Baptist Convention Renewing Worship EXPO (2025)
+* Worship Keys (on [SoundCloud](https://soundcloud.com/jonahlosh/worship-keys-workshop-ncbc-renewing-worship-expo-2025)) — North Carolina Baptist Convention Renewing Worship EXPO (2025)
 
 ## Workshops attended
 * Lift the Room Worship Workshop with Marcus Criner — True North Church (2025)
