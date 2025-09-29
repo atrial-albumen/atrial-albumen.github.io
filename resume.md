@@ -28,3 +28,4 @@ comments: false
 
 ## Photos
 ![Renewing Worship EXPO 2025 Poster](https://jonahlosh.com/assets/img/ncbcwc-jonahlosh.png)
+![Renewing Worship - Action Shot](https://jonah.losh.com/assets/img/ncbcwc-09.jpeg)
