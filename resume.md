@@ -25,4 +25,6 @@ comments: false
 * Masterclass with Terrence Wilson — Converse University (2024)
 * Masterclass with Ida Bieler — Converse University (2023)
 * Masterclass with Dmitri Vorobiev — Converse University (2023)
+
 ## Photos
+![Renewing Worship EXPO 2025 Poster](https://jonahlosh.com/assets/img/ncbcwc-jonahlosh.png)
