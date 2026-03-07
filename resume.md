@@ -29,3 +29,5 @@ comments: false
 ## Photos
 ![Renewing Worship EXPO 2025 Poster](https://jonahlosh.com/assets/img/ncbcwc-jonahlosh.png)
 ![Renewing Worship - Action Shot](https://jonahlosh.com/assets/img/ncbcwc-09.jpeg)
+![Graduate Recital](https://jonahlosh.com/assets/img/grad.jpg)
+![Rachmaninov](https://jonahlosh.com/assets/img/rach.jpg)
