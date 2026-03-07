@@ -6,6 +6,7 @@ excerpt: Things I've done, places I've worked, people I've studied with.
 comments: false
 ---
 # Performances
+* Rehearsal and show pianist, *Newsies* — School of Theatre, North Greenville University (2026)
 * Event Musician, Annual Gala Friends of the Highlanders — Poinsett Club, Greenville SC (2024)
 * *[Echoes](http://www.jonahlosh.com/graduate-piano-recital)* — Graduate Piano Recital — Converse University (2024)
 * *Cafe Music* by Paul Schoenfeld — Converse University (2023)
@@ -13,6 +14,8 @@ comments: false
 * Piano Quartet No. 1 Op. 25 by Johannes Brahms
 
 # Professional Development
+* Developed and taught Worship Keyboard learning track for Worship Studies (piano primary) students at North Greenville University (2025)
+
 ## Workshops taught
 * Worship Keys (on [SoundCloud](https://soundcloud.com/jonahlosh/worship-keys-workshop-ncbc-renewing-worship-expo-2025)) — North Carolina Baptist Convention Renewing Worship EXPO (2025)
 
