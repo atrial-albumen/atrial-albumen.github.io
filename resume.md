@@ -10,8 +10,9 @@ comments: false
 * Event Musician, Annual Gala Friends of the Highlanders — Poinsett Club, Greenville SC (2024)
 * *[Echoes](http://www.jonahlosh.com/graduate-piano-recital)* — Graduate Piano Recital — Converse University (2024)
 * *Cafe Music* by Paul Schoenfeld — Converse University (2023)
-* Piano Concerto No. 1 by Felix Mendelssohn (2023)
-* Piano Quartet No. 1 Op. 25 by Johannes Brahms
+* Piano Concerto No. 1 by Felix Mendelssohn — North Greenville University (2023), Converse University (2024)
+* Piano Quartet No. 1 Op. 25 by Johannes Brahms — Converse University (2023)
+* [Suite No. 2 for Two Pianos by Sergei Rachmaninoff](https://youtu.be/R8Ipowo4LfE) — Converse University (2023)
 
 # Professional Development
 * Developed and taught Worship Keyboard learning track for Worship Studies (piano primary) students at North Greenville University (2025)
