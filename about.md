@@ -20,4 +20,3 @@ When I'm not playing piano, find me daytripping to the mountains, sipping coffee
 
 - {{ site.author.email }}
 - instagram.com/jonahlosh.music
-- facebook.com/{{ site.author.username }}
