@@ -8,9 +8,9 @@ comments: false
 
 I'm a collaborative pianist and worship pastor in Greenville, SC.
 
-In 2021, I graduated suma cum laude with a B.A. in Music Performance from North Greenville University, where I studied with Mr. Fabio Parrini. In 2024, I completed my Masters of Music in Piano Performance from Converse University, where I studied with Dr. Steven Graff.
+In 2021, I graduated summa cum laude with a B.A. in Music Performance from North Greenville University, where I studied with Mr. Fabio Parrini. In 2024, I completed my Masters of Music in Piano Performance from Converse University, where I studied with Dr. Steven Graff.
 
-As an instructor, I am passionate about bridging classical and contemporary piano music traditions through holistic piano instruction to cultivate well-rounded musicians.
+As an instructor, I am passionate about bridging classical and contemporary piano music traditions through holistic piano instruction to cultivate well-rounded musicians. Lessons with me are **creative**, **personalized**, and **progressive** as we develop a love for music and strong musicianship.
 
 As a collaborator with classical and music theatre experience, I enjoy working with serious students, singers, and instrumentalists in private lessons and supporting auditions, competitions, and performance preparation.
 
